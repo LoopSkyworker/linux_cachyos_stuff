@@ -1,6 +1,6 @@
-# Linux stuff
+# CachyOS stuff
 
-Various scripts and instructions for GNU Linux.
+Various scripts and instructions for the Linux Distribution **CachyOS**.
 
 ## License
 
