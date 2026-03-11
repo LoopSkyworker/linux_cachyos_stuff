@@ -3,6 +3,7 @@
 # The various directories that can provide shader caches
 CACHE_DIRS=(
     ".cache/nvidia"
+    ".cache/dxvk"
     ".cache/mesa_shader_cache"
     ".cache/mesa_shader_cache_db"
     ".nv/GLCache"
